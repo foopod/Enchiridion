@@ -6,6 +6,6 @@ Every event or action is either within or outside our control. If you place too 
 However I do believe that this should be taken with a grain of salt, some Stoics take this idea too far, to the point where they believe that all negative emotions can only affect you in a negative way. 
 Reading a translation of The Enchiridion of Epictetus (Elizabeth Carter) ...
 
->"If, for example, you are fond of a specific ceramic cup, remind yourself that it is only ceramic cups in general of which you are fond. Then, if it breaks, you will not be disturbed. If you kiss your child, or your wife, say that you only kiss things which are human, and thus you will not be disturbed if either of them dies"
+>"If, for example, you are fond of a specific ceramic cup, remind yourself that it is only ceramic cups in general of which you are fond. Then, if it breaks, you will not be disturbed. If you kiss your child, or your wife, say that you only kiss things which are human, and thus you will not be disturbed if either of them dies."
 
 This sounds scarily devoid of all emotion, and while strong emotions that stem from grieving definitely have negative effects, I believe that they can impact us positively as well. Not only are these feelings good for the healing process and creating closure, but its these experiences that fuel your own compassion and ability to empathise with others.
