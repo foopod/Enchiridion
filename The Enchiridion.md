@@ -1,7 +1,7 @@
 # The Enchiridion
 
 #1
-Every event or action is either within or outside our control. If you place too much dependence on the things outside your control then you will surely be disappointed. Thus instead of reacting in an upset manner when something doesn't go your way because you had no control, then try to explain it to yourself as such. We must be willing to let these things go, the impact on our lives if we don't is often not worth the pain.
+Every event or action is either within or outside of our control. If you place too much dependence on the things outside your control then you will surely be disappointed. Thus instead of reacting in an upset manner when something doesn't go your way because you had no control, then try to explain it to yourself as such. We must be willing to let these things go, the impact on our lives if we don't is often not worth the pain.
 
 However I do believe that this should be taken with a grain of salt, some Stoics take this idea too far, to the point where they believe that all negative emotions can only affect you in a negative way. 
 Reading a translation of The Enchiridion of Epictetus (Elizabeth Carter) ...
