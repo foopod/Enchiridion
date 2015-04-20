@@ -9,3 +9,9 @@ Reading a translation of The Enchiridion of Epictetus (Elizabeth Carter) ...
 >"If, for example, you are fond of a specific ceramic cup, remind yourself that it is only ceramic cups in general of which you are fond. Then, if it breaks, you will not be disturbed. If you kiss your child, or your wife, say that you only kiss things which are human, and thus you will not be disturbed if either of them dies."
 
 Alarmingly this suggests that it is better to be devoid of emotion in this situation, and while strong emotions that stem from grieving definitely have negative effects, I believe that they can impact us positively as well. Not only are these feelings good for the healing process and creating closure, but it is these experiences that fuel your own compassion and ability to empathise with others.
+
+#1 pt. 2
+I am not a Stoic...
+>"Despite the popular image, the Stoic does not repress or deny his emotions; instead he simply doesn’t have them in the first place"
+
+I don't think it is right to not have passionless. Emotions are part of human nature, they are instinctive. I am not seeking to become unemotional, I am not trying to repress or control my emotions, I am simply trying to better understand them and how they affect me.
