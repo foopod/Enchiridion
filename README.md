@@ -1,5 +1,5 @@
 # The Enchiridion
-Lately I have been exploring the idea of stoicism, it focuses on using logical reasoning to better manage emotions and emphasizes ethics as the main focus of human knowledge. I have decided to not only read but rewrite passages from the stoic text, the Enchiridion. This would allow me to relate the passage back to my personal life, as well as help to remember and embrace the Stoic guideline in question.
+Lately I have been exploring the idea of stoicism, it focuses on using logical reasoning to better manage emotions and emphasizes ethics as the main focus of human knowledge. I have decided to not only read but rewrite passages from the stoic text, the Enchiridion. What comes out is not going to be anything like what went in, I am not a Stoic, nor do I seek to be one, but I do see an opportunity for learning from their ideals.
 
 # Translations Used
 [Carter]: http://classics.mit.edu/Epictetus/epicench.html
