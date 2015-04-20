@@ -7,5 +7,5 @@ Lately I have been exploring the idea of stoicism, it focuses on using logical r
 [Long]: http://www.gutenberg.org/files/10661/10661-h/10661-h.htm
 
 * [Elizabeth Carter's Translation][Carter]
-* [Thomas W. Higginson][Higginson]
-* [George Long][Long]
+* [Thomas W. Higginson's Translation][Higginson]
+* [George Long's Translation][Long]
