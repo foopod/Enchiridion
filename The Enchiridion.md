@@ -14,4 +14,4 @@ Alarmingly this suggests that it is better to be devoid of emotion in this situa
 I am not a Stoic...
 >"Despite the popular image, the Stoic does not repress or deny his emotions; instead he simply doesn’t have them in the first place"
 
-I don't think it is right to not have passionless. Emotions are part of human nature, they are instinctive. I am not seeking to become unemotional, I am not trying to repress or control my emotions, I am simply trying to better understand them and how they affect me.
+I don't think it is right to be passionless. Emotions are part of human nature, they are instinctive. I am not seeking to become unemotional, I am not trying to repress or control my emotions, I am simply trying to better understand them and how they affect me.
