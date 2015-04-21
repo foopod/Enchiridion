@@ -18,3 +18,13 @@ I am not a Stoic...
 >"Despite the popular image, the Stoic does not repress or deny his emotions; instead he simply doesn’t have them in the first place" - [John Sellars][Sellars].
 
 I don't think it is right to be passionless. Emotions are part of human nature, they are instinctive. I am not seeking to become unemotional, I am not trying to repress or control my emotions, I am simply trying to better understand them and how they affect me.
+
+#2
+Any goal is achievable if you put everything you have into it's attainment. The Stoics believed that if you fail to attain your desires you would only be left with pain and that we should only attempt to attain the things that are solely under our own of realm of influence. While following this belief, without a passion to fulfill your desires how can one expect to achieve anything of greatness? Epictetus does alude and someone warn of this however...
+"Remember that following desire promises the attainment of that of which you are desirous; and aversion promises the avoiding that to which you are averse."
+
+So, is it morally right for one to solely focus on achieving their own desires?... It depends entirely on the desire, if the expected outcome was to save the lives of others then surely dedicating your time and energy to that cannot be seen as selfish. Stoicism focuses on virtue, can one be selfless 100% of the time?
+
+Should we fear the pain of failure?
+
+
