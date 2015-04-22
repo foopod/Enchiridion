@@ -2,6 +2,7 @@
 
 [Carter]: http://classics.mit.edu/Epictetus/epicench.html
 [Sellars]: http://blogs.exeter.ac.uk/stoicismtoday/what-is-stoicism/
+[Emerson]: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
 
 #1
 Every event or action is either within or outside of our control. If you place too much dependence on the things outside your control then you will surely be disappointed. Thus instead of reacting in an upset manner when something doesn't go your way because you had no control, then try to explain it to yourself as such. We must be willing to let these things go, the impact on our lives if we don't is often not worth the pain.
@@ -28,4 +29,4 @@ A Stoic also believes that we should only attempt to attain the things that are 
 
 Anything is achievable if you put your mind to it.
 
->“Enthusiasm is one of the most powerful engines of success. When you do a thing, do it with all your might. Put your whole soul into it. Stamp it with your own personality. Be active, be energetic, be enthusiastic and faithful, and you will accomplish your object. Nothing great was ever achieved without enthusiasm.” - Ralph Waldo Emerson
+>“Enthusiasm is one of the most powerful engines of success. When you do a thing, do it with all your might. Put your whole soul into it. Stamp it with your own personality. Be active, be energetic, be enthusiastic and faithful, and you will accomplish your object. Nothing great was ever achieved without enthusiasm.” - [Ralph Waldo Emerson][Emerson]
