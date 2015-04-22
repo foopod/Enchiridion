@@ -19,19 +19,15 @@ I am not a Stoic...
 
 It is not right to be passionless. Emotions are part of human nature, they are instinctive. One should not seek to become unemotional, one should not try to repress or control their emotions, one should simply try to better understand them and how they affect their thoughts and actions.
 
-#2 --- drafting
+#2 (draft)
 Any goal is achievable if you put everything you have into it's attainment. The Stoics believed that if you fail to attain your desires you would only be left with pain, but should we fear the pain of failure? If we define failure as the inability to achieve a goal in a period of time, in our own minds we see ouselves as inadequate, such is defeat. In terms of evolution, this instinctive pain we associate with failure may have been a means of self-preservation, thus avoiding situations where the outcome was unknown and could result in loss of life or a potential mate. The emotional pain we experience is a deterrent, but how should we use this detterent? Either we look at it in such a way that we should try harder to achieve our goals in the future, or perhaps avoid trying all together.
+
+So, is it morally right for one to focus on achieving their own desires? This is controversial, Stoicism focuses on virtue, can one be entirely selfless? 
+
 
 In the last 5000 years our society has drastically changed in such a way that evolution has not been able to keep up and we ourselves have impeded the process of natural selection. There are a number of vestigial traits in humans that Charles Darwin listed in "The Descent of Man", I suggest that some of the instinctive emotions we have may now be a hindrance rather than an advantage. Failure is no longer synonymous with death, we now need to look to failure as a learning tool and the pain simply as a motivating factor to do better next time.
 
-A Stoic also believes that we should only attempt to attain the things that are solely under our own of realm of influence. 
+A Stoic also believes that we should only attempt to attain the things that are solely under our own of realm of influence and we should do this "lightly, and with gentleness and reservation". It is important to set achieveable goals, especially ones that don't rely heavily on external factors, this I can agree with. But most people are already taught to make their goals clear, measureable and achieveable from a young age. In saying this, being conservative when you set goals is not will only hold you back, it is just as important to challenge yourself.
 
-is it morally right for one to focus on achieving their own desires? 
-
-While following this belief, without a passion to fulfill your desires how can one expect to achieve anything of greatness? Epictetus does alude and someone warn of this however...
-"Remember that following desire promises the attainment of that of which you are desirous; and aversion promises the avoiding that to which you are averse."
-
-So, is it morally right for one to solely focus on achieving their own desires? This is controversial, Stoicism focuses on virtue, can one be entirely selfless? 
-
-
-
+"Aim for the moon. If you miss, you may hit a star." (W. Clement Stone)
+Somewhat paradoxically you are unlikely to hit a star, not only that but it wouldn't be more pleasant than the moon.
