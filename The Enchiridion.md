@@ -1,5 +1,5 @@
 # The Enchiridion
-
+by Jonathon Shields
 [Carter]: http://classics.mit.edu/Epictetus/epicench.html
 [Sellars]: http://blogs.exeter.ac.uk/stoicismtoday/what-is-stoicism/
 [Emerson]: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
