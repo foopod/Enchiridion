@@ -17,7 +17,7 @@ Alarmingly this suggests that it is better to be devoid of emotion in this situa
 I am not a Stoic...
 >"Despite the popular image, the Stoic does not repress or deny his emotions; instead he simply doesn’t have them in the first place" - [John Sellars][Sellars].
 
-It is right to be passionless. Emotions are part of human nature, they are instinctive. One should not seek to become unemotional, one should not try to repress or control their emotions, one should simply try to better understand them and how they affect their thoughts and actions.
+It is not right to be passionless. Emotions are part of human nature, they are instinctive. One should not seek to become unemotional, one should not try to repress or control their emotions, one should simply try to better understand them and how they affect their thoughts and actions.
 
 #2 --- drafting
 Any goal is achievable if you put everything you have into it's attainment. The Stoics believed that if you fail to attain your desires you would only be left with pain, but should we fear the pain of failure? If we define failure as the inability to achieve a goal in a period of time, in our own minds we see ouselves as inadequate, such is defeat. In terms of evolution, this instinctive pain we associate with failure may have been a means of self-preservation, thus avoiding situations where the outcome was unknown and could result in loss of life or a potential mate. The emotional pain we experience is a deterrent, but how should we use this detterent? Either we look at it in such a way that we should try harder to achieve our goals in the future, or perhaps avoid trying all together.
