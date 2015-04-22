@@ -30,3 +30,11 @@ Anything is achievable if you put your mind to it.
 
 It is not right to be passionless. Emotions are part of human nature, they are instinctive. One should not seek to become unemotional, one should not try to repress or control their emotions, one should simply try to better understand them and how they affect their thoughts and actions.
 
+Emotion is instinctive, we experience emotion because it has been passed to us through evolution where natural selection has chosen it as a valuable asset to our survival.
+
+However, over the last 5000 society has developed drastically in such a way that evolution could not keep up and in that time we began to obstruct the process of natural selection. There are a number of vestigial traits in humans that Charles Darwin listed in "The Descent of Man", I suggest that some of the instinctive emotions we have may now be a hindrance rather than an advantage.
+
+Some of our innate emotions are crucial for our development, for example joy is an excellent motivator and sorrow a deterrent. As humans living in 21st century we develop and learn at an alarming rate. We are at a stage where once we reach maturity we are capable of logically and ethically making our own decisions without the need for emotion. A great deal of emotions just get in our way, anger is only useful in a physical confrontation, sadness slows our movements and introverts us and lust/love to ensure the next generation.
+
+Rather than letting your emotions affect the outcome of a decision, look at it logically, of course assess whatever emotions you are feeling and factor them in, but always look at the big picture. 
+
