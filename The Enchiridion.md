@@ -20,7 +20,7 @@ I am not a Stoic...
 
 It is not right to be passionless. Emotions are part of human nature, they are instinctive. One should not seek to become unemotional, one should not try to repress or control their emotions, one should simply try to better understand them and how they affect their thoughts and actions.
 
-#2 (draft)
+#2 
 Any goal is achievable if you put everything you have into it's attainment. The Stoics believed that if you fail to attain your desires you would only be left with pain, but should we fear the pain of failure? If we define failure as the inability to achieve a goal, in our own minds we see ouselves as inadequate or weak. In terms of evolution, this instinctive pain we associate with failure may have been a means of self-preservation, thus avoiding situations where the outcome was unknown and could result in loss of life or a potential mate. If we look at this emotional pain we experience as a deterrent, how should we use it? Either we should try harder to achieve our goals in the future, or perhaps avoid trying all together.
 
 Is it morally right for one to focus on achieving their own desires? This is controversial, Stoicism focuses on leading a virtuous life, but to what extent? Should one first help themselves before they help others? What if fulfilling your desires increases your potential to fulfill the desires of others? 
