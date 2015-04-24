@@ -1,8 +1,13 @@
 # The Enchiridion
-by Jonathon Shields
+
+What you find below is a combination of the Enchiridion of Epictetus, my own thoughts and my own research. None of what you read is hard fact, simply my opinions and thoughts.
+
+
 [Carter]: http://classics.mit.edu/Epictetus/epicench.html
 [Sellars]: http://blogs.exeter.ac.uk/stoicismtoday/what-is-stoicism/
 [Emerson]: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+
+    
 
 #1
 Every event or action is either within or outside of our control. If you place too much dependence on the things outside your control then you will surely be disappointed. Thus instead of reacting in an upset manner when something doesn't go your way because you had no control, then try to explain it to yourself as such. We must be willing to let these things go, the impact on our lives if we don't is often not worth the pain.
