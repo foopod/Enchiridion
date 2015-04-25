@@ -1,6 +1,6 @@
 # The Enchiridion
 
-What you find below is a combination of the Enchiridion of Epictetus, my own thoughts and my own research. None of what you read is hard fact, simply my opinions and thoughts.
+What you find below is a combination of the Enchiridion of Epictetus, my own thoughts and my own research. None of what you read is fact, simply my opinions and thoughts.
 
 
 [Carter]: http://classics.mit.edu/Epictetus/epicench.html
