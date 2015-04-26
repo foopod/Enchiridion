@@ -29,11 +29,9 @@ Stoics believe that we should only attempt to attain the things that are solely 
 
 >“Only those who attempt the absurd can achieve the impossible.” - [Albert Einstein][Einstein].
 
-The Stoics believed that if you fail to attain your desires you would only be left with pain, but should we fear the pain of failure? If we define failure as the inability to achieve a goal, in our own minds we see ouselves as inadequate or weak. In terms of evolution, this instinctive pain we associate with failure may have been a means of self-preservation, thus avoiding situations where the outcome was unknown and could result in loss of life or a potential mate. If we look at this emotional pain we experience as a deterrent, how should we use it? Either we should try harder to achieve our goals in the future, or perhaps avoid trying all together.
+When it comes to failure, we find that we feel pain when we do not succeed to attain our desires. This pain is a deterrent, clearly we did not achieve what we hoped too. Unfortunately this deterrent can be used in two different ways, either as incentive to try harder in the future or as an excuse to avoid trying entirely. There is no shame in avoiding the attainment of your goals, but it must be for the right reasons, not simply because one fears failue.
 
 Is it morally right for one to focus on achieving their own desires? This is controversial, Stoicism focuses on leading a virtuous life, but to what extent? Should one first help themselves before they help others? What if fulfilling your desires increases your potential to fulfill the desires of others? 
-
-
 
 #On Emotion
 >"Despite the popular image, the Stoic does not repress or deny his emotions; instead he simply doesn’t have them in the first place" - [John Sellars][Sellars].
