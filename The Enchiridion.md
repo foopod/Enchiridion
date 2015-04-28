@@ -30,7 +30,7 @@ When it comes to failure, we find that we feel pain when we do not succeed to at
 
 Is it morally right for one to focus on achieving their own desires? This is controversial, Stoicism focuses on leading a virtuous life, but to what extent? Should one first help themselves before they help others? What if fulfilling your desires increases your potential to fulfill the desires of others? 
 
-#3 (Draft)
+#3
 Stoicism teaches us to not get too attached to physical objects, and instead to remind ourselves of the generic nature of the objects. The Enchiridion suggests that we should practice this starting with the most insignficant things.
 
 >"If, for example, you are fond of a specific ceramic cup, remind yourself that it is only ceramic cups in general of which you are fond. Then, if it breaks, you will not be disturbed. If you kiss your child, or your wife, say that you only kiss things which are human, and thus you will not be disturbed if either of them dies." - [Elizabeth Carter][Carter].
