@@ -39,10 +39,9 @@ Stoicism teaches us to not get too attached to physical objects, and instead to 
 
 It's obvious to see that we won't feel as much suffering when we lose the things we don't care about, but you must truly be a monster to value the lives of your partner and child as you would a ceramic cup. The reason you value something is not so you feel pain when it is lost, but instead to ensure you fight to keep it.
 
-<!---
+
 #4
-When going about an action pay particular attention to the nature o
--->
+When undertaking an action, remind yourself of the possible negative outcomes. For example if you are going on holiday and flying overseas, remind yourself that you may be stuck in queues for a long time, that you may suffer delays or that your bags might get lost. Rather than thinking of the ideal in our head, we should prepare for what things are really like. We will suffer less hardship if we accept the world as it is and not as we want it to be.
 
 <!---
 #On Emotion (drafting)
