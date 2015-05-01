@@ -15,7 +15,7 @@ Every event or action is either within or outside of our control. If you place t
 
 This however should be taken with a grain of salt, some Stoics take this idea too far, to the point where they believe that all negative emotions can only affect you in a negative way. Alarmingly this suggests that it is better to be devoid of negative emotions entirely, and while strong emotions that stem from grief definitely have negative effects, they can impact us positively as well. Not only are these feelings good for the healing process and creating closure, but it is also these experiences that fuel our compassion and ability to empathise with others. 
 
-The modern stoic should seek to learn and understand more from their emotions, understand what stimulates them and how they react to them. We can't control situations that set us off, we can only control our reactions.
+Perhaps the modern stoic should seek to learn and understand more from their emotions, understand what stimulates them and how they react to them. We can't control situations that set us off, we can only control our reactions.
 
 #2 
 Any goal is achievable if you put everything you have into it's attainment. 
@@ -38,6 +38,11 @@ Stoicism teaches us to not get too attached to physical objects, and instead to 
 >"If, for example, you are fond of a specific ceramic cup, remind yourself that it is only ceramic cups in general of which you are fond. Then, if it breaks, you will not be disturbed. If you kiss your child, or your wife, say that you only kiss things which are human, and thus you will not be disturbed if either of them dies." - [Elizabeth Carter][Carter].
 
 It's obvious to see that we won't feel as much suffering when we lose the things we don't care about, but you must truly be a monster to value the lives of your partner and child as you would a ceramic cup. The reason you value something is not so you feel pain when it is lost, but instead to ensure you fight to keep it.
+
+<!---
+#4
+When going about an action pay particular attention to the nature o
+-->
 
 <!---
 #On Emotion (drafting)
