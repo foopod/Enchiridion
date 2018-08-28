@@ -10,15 +10,15 @@ What you find below is a combination of the Enchiridion of Epictetus, my own tho
 
     
 
-#1
-Every event or action is either within or outside of our control. If you place too much dependence on the things outside your control then you will undoubtedly be disappointed. Thus instead of reacting in an upset manner when something doesn't go your way because you had no control, then explain it to yourself as such. We must be willing to let these things go, if we don't the impact on our lives is often not worth the pain.
+# 1
+> Every event or action is either within or outside of our control. If you place too much dependence on the things outside your control then you will undoubtedly be disappointed. Thus instead of reacting in an upset manner when something doesn't go your way because you had no control, then explain it to yourself as such. We must be willing to let these things go, if we don't the impact on our lives is often not worth the pain.
 
 This however should be taken with a grain of salt, some Stoics take this idea too far, to the point where they believe that all negative emotions can only affect you in a negative way. Alarmingly this suggests that it is better to be devoid of negative emotions entirely, and while strong emotions like grief definitely have negative effects, they can impact us positively as well. Not only are these feelings good for the healing process and creating closure, but it is also these experiences that fuel our compassion and ability to empathise with others. 
 
 Perhaps the modern stoic should seek to learn and understand more from their emotions, understand what stimulates them and how they react to them. We can't control the situations that set us off, we can only control our reactions.
 
-#2 
-Any goal is achievable if you put everything you have into it's attainment. 
+# 2 
+> Any goal is achievable if you put everything you have into it's attainment. 
 
 >“Enthusiasm is one of the most powerful engines of success. When you do a thing, do it with all your might. Put your whole soul into it. Stamp it with your own personality. Be active, be energetic, be enthusiastic and faithful, and you will accomplish your object. Nothing great was ever achieved without enthusiasm.” - [Ralph Waldo Emerson][Emerson]
 
@@ -32,19 +32,19 @@ We come across pain when we fail to attain our desires. This pain is a deterrent
 
 Is it morally right for one to focus on achieving their own desires? This is controversial; Stoicism focuses on leading a virtuous life, but to what extent? Should one first help themselves before they help others? What if fulfilling your desires increases your potential to fulfill the desires of others? 
 
-#3
-Stoicism teaches us to not get too attached to physical objects, and instead to remind ourselves of the generic nature of the objects. The Enchiridion suggests that we should practice this starting with the most insignficant things.
+# 3
+> Stoicism teaches us to not get too attached to physical objects, and instead to remind ourselves of the generic nature of the objects. The Enchiridion suggests that we should practice this starting with the most insignficant things.
 
 >"If, for example, you are fond of a specific ceramic cup, remind yourself that it is only ceramic cups in general of which you are fond. Then, if it breaks, you will not be disturbed. If you kiss your child, or your wife, say that you only kiss things which are human, and thus you will not be disturbed if either of them dies." - [Elizabeth Carter][Carter].
 
 It's obvious to see that we won't feel as much suffering when we lose the things we don't care about, but you must truly be a monster to value the lives of your partner and child as you would a ceramic cup. The reason you value something is not so you feel pain when it is lost, but instead to ensure you fight to keep it.
 
 
-#4
-When undertaking an action, remind yourself of the possible negative outcomes. For example if you are going on holiday and flying overseas, remind yourself that you may be stuck in queues for a long time, that you may suffer delays or that your bags might get lost. Rather than thinking of the ideal in our head, we should prepare for what things are really like. We will suffer less hardship if we accept the world as it is and not as we want it to be.
+# 4
+> When undertaking an action, remind yourself of the possible negative outcomes. For example if you are going on holiday and flying overseas, remind yourself that you may be stuck in queues for a long time, that you may suffer delays or that your bags might get lost. Rather than thinking of the ideal in our head, we should prepare for what things are really like. We will suffer less hardship if we accept the world as it is and not as we want it to be.
 
-#5
-We are not disturbed or grived by things or actions, but rather by ourselves, by our own principles and notions in relation to events. Epictetus mentions Death as an example, something that in itself is not aweful, but something that is natural and unavaoidable. It is our perspective of death, how we interpret it and what it means to us that defines how we react emotionally to it. Do not place the blame on others, do not not blame anyone at all, but if you must, lay the fault on yourself.
+# 5
+> We are not disturbed or grived by things or actions, but rather by ourselves, by our own principles and notions in relation to events. Epictetus mentions Death as an example, something that in itself is not aweful, but something that is natural and unavaoidable. It is our perspective of death, how we interpret it and what it means to us that defines how we react emotionally to it. Do not place the blame on others, do not not blame anyone at all, but if you must, lay the fault on yourself.
 
 
 
